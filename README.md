@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Backend Developer exploring creative coding challenges.
+
+Currently taking part in Advent of Code—check out my solutions here: [https://github.com/kacperkrolak/advent-of-code](https://github.com/kacperkrolak/advent-of-code)
 <!--
 **kacperkrolak/kacperkrolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
